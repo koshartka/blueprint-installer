@@ -7,7 +7,7 @@ wget www.jokey-dev.ru/dev/blueprint/install.sh -O install.sh
 chmod +x install.sh
 ./install.sh
 ```
-Правда потом придёться много раз протыкать кнопку "Y".
+Правда потом придётся много раз протыкать кнопку "Y".
 
 удачи!
 
